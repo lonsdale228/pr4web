@@ -1,0 +1,108 @@
+
+.links {
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  margin: 10;
+}
+
+.text {
+  font-family: Tahoma;
+  font-size: 12pts;
+  color: #003366;
+  line-height: 7mm;
+  margin: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-color: red;
+  border-style: solid;
+  background-color: #e0e0e0;
+  width: 500px;
+  text-align: justify;
+}
+
+.weewee {
+  font-family: Tahoma;
+  font-size: 12pt;
+  color: #003366;
+  line-height: 7mm;
+  margin: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 500px;
+  text-align: justify;
+}
+
+.shadowtext {
+  font-family: Tahoma;
+  font-size: 24pt;
+  color: green;
+  width: 500px;
+  padding-left: 250px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  text-shadow: -2px 2px 3px green;
+}
+
+.color {
+  background-color: #dede00;
+}
+
+.container {
+    padding-top: 50;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+.img1 {
+ width:200px;
+ height:300px;
+ position: absolute;
+ left: 100px;
+ border: 3px;
+ border-color: green;
+ border-style: solid;
+}
+.img2 {
+  width:200px;
+  height:300px;
+  position: absolute;
+  left: 50px;
+  top: 250px;
+  border: 3px;
+  border-color: green;
+  border-style: solid;
+}
+.img3 {
+  width:200px;
+  height:300px;
+  position: absolute;
+  left: 200px;
+  top: 100px;
+  border: 3px;
+  border-color: green;
+  border-style: solid;
+}
+
+li {
+  list-style-type: circle;
+}
+span.font {
+  font-size: 11px;
+}
+
+a:link { color: blue; }
+
+a:active { text-decoration: underline; }
+
+a:visited { color: gray; }
+
+a:hover { color: orange; }
